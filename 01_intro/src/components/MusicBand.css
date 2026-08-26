@@ -1,0 +1,133 @@
+.band-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.band-container h1 {
+  text-align: center;
+  color: var(--accent);
+  margin-bottom: 8px;
+}
+
+.band-subtitle {
+  text-align: center;
+  font-size: 18px;
+  color: var(--text);
+  margin-bottom: 24px;
+  font-style: italic;
+}
+
+.band-info {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+  background: var(--code-bg);
+  padding: 20px;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  margin-bottom: 24px;
+}
+
+.band-info .info-item {
+  padding: 8px 12px;
+  background: var(--bg);
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  text-align: center;
+}
+
+.band-info .label {
+  display: block;
+  font-size: 12px;
+  color: var(--text);
+  font-weight: 500;
+}
+
+.band-info .value {
+  font-size: 16px;
+  color: var(--text-h);
+  font-weight: 600;
+}
+
+.members {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 20px;
+  margin: 16px 0 24px;
+}
+
+.member-card {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 20px;
+  text-align: center;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.member-card:hover {
+  transform: translateY(-5px);
+  box-shadow: var(--shadow);
+}
+
+.member-icon {
+  font-size: 48px;
+}
+
+.member-card h3 {
+  margin: 8px 0 4px;
+  color: var(--text-h);
+}
+
+.member-card p {
+  margin: 0;
+  color: var(--text);
+  font-size: 14px;
+}
+
+.albums {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 20px;
+  margin-top: 16px;
+}
+
+.album-card {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 16px;
+  text-align: center;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.album-card:hover {
+  transform: translateY(-5px);
+  box-shadow: var(--shadow);
+}
+
+.album-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.album-card h4 {
+  margin: 8px 0 4px;
+  color: var(--text-h);
+}
+
+.album-card p {
+  margin: 0;
+  color: var(--text);
+  font-size: 14px;
+}
+
+.band-container h2 {
+  margin-top: 32px;
+  color: var(--text-h);
+  border-bottom: 2px solid var(--accent);
+  padding-bottom: 8px;
+}
