@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "country": "Україна",
+    "city": "Київ",
+    "description": "Столиця України, велике місто на Дніпрі з багатою історією.",
+    "coat_of_arms": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Coat_of_arms_of_Kyiv.svg/200px-Coat_of_arms_of_Kyiv.svg.png",
+    "population": 2950000,
+    "area": 847
+  },
+  {
+    "id": 2,
+    "country": "Україна",
+    "city": "Львів",
+    "description": "Місто Лева, культурна столиця України з чудовою архітектурою.",
+    "coat_of_arms": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Lviv_coat_of_arms.svg/200px-Lviv_coat_of_arms.svg.png",
+    "population": 720000,
+    "area": 182
+  }
+]
