@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "name": "Bugatti Chiron",
+        "manufacturer": "Bugatti",
+        "year": 2023,
+        "volume": 8.0,
+        "price": 3000000,
+        "color": "Синій",
+        "description": "Гіперкар з двигуном W16 потужністю 1500 к.с. Розгін до 100 км/год за 2.4 секунди.",
+        "image": "https://images.unsplash.com/photo-1627454820903-9646d6ca61f5?q=80&w=737&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 2,
+        "name": "Bugatti Veyron",
+        "manufacturer": "Bugatti",
+        "year": 2015,
+        "volume": 8.0,
+        "price": 2500000,
+        "color": "Чорний",
+        "description": "Легендарний гіперкар, що першим подолав позначку 400 км/год.",
+        "image": "https://images.unsplash.com/photo-1672658074939-16cd8cc3e414?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 3,
+        "name": "BMW M5",
+        "manufacturer": "BMW",
+        "year": 2023,
+        "volume": 4.4,
+        "price": 95000,
+        "color": "Чорний",
+        "description": "Спортивний седан бізнес-класу з двигуном V8.",
+        "image": "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=400&h=250&fit=crop"
+    },
+    {
+        "id": 4,
+        "name": "Tesla Model S",
+        "manufacturer": "Tesla",
+        "year": 2024,
+        "volume": 0,
+        "price": 110000,
+        "color": "Білий",
+        "description": "Повністю електричний седан преміум-класу.",
+        "image": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=400&h=250&fit=crop"
+    },
+    {
+        "id": 5,
+        "name": "Mercedes-Benz E-Class",
+        "manufacturer": "Mercedes-Benz",
+        "year": 2023,
+        "volume": 2.0,
+        "price": 75000,
+        "color": "Сріблястий",
+        "description": "Елегантний бізнес-седан з розкішним інтер'єром.",
+        "image": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=400&h=250&fit=crop"
+    },
+    {
+        "id": 6,
+        "name": "Volkswagen Golf",
+        "manufacturer": "Volkswagen",
+        "year": 2021,
+        "volume": 1.4,
+        "price": 25000,
+        "color": "Червоний",
+        "description": "Компактний хетчбек, ідеальний для міста.",
+        "image": "https://images.unsplash.com/photo-1471444928139-48c5bf5173f8?w=400&h=250&fit=crop"
+    }
+]
